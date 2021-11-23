@@ -42,7 +42,7 @@ header{
   top: 150px;
   left: 650px;
   line-height: 2em;
-  background: linear-gradient(to right, #02014A 0%, #86FAF2 100%);
+  background: linear-gradient(to right, #fafcff 0%,#4c99f4 50%, #86FAF2 100%);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
   font-size: 30px;
